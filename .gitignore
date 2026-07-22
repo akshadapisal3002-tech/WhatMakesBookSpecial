@@ -1,6 +1,4 @@
-cat > .gitignore << EOF
 DATA/*.csv
 __pycache__/
 .DS_Store
 .env
-EOF
